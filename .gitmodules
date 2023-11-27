@@ -1,0 +1,3 @@
+[submodule "devops_lab2"]
+	path = devops_lab2
+	url = https://github.com/druuuw/Lab2-DOAIOT.git
